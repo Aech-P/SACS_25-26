@@ -1,9 +1,9 @@
 /* Load site/pages/items from Google Sheets (gviz) and render site.
    Items list is independent of pages: no auto-filtering by page. */
 var spreadsheetID = "1EVvVT1bD5vevac-cE221CbkHT00BZnZD";
-var siteSheet  = "1569296108";
-var pagesSheet = "28080804";
-var itemsSheet = "0";
+var siteSheet  = "138933088";
+var pagesSheet = "1925816019";
+var itemsSheet = "505710356";
 
 // override source via ?source=
 var originalID = spreadsheetID;
